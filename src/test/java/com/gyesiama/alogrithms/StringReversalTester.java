@@ -1,6 +1,6 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.algoritms.StringReversal;
+import com.gyesiama.algorithms.StringReversal;
 
 import org.junit.Assert;
 import org.junit.Test;

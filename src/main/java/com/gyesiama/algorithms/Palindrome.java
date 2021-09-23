@@ -1,4 +1,4 @@
-package com.gyesiama.algoritms;
+package com.gyesiama.algorithms;
 
 public class Palindrome {
     public static void main(String [] args) {

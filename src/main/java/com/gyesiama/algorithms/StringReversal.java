@@ -1,4 +1,4 @@
-package com.gyesiama.algoritms;
+package com.gyesiama.algorithms;
 
 public class StringReversal {
     public static void main(String [] args) {

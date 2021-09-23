@@ -1,6 +1,6 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.algoritms.VersionNumberComparator;
+import com.gyesiama.algorithms.VersionNumberComparator;
 import org.junit.Assert;
 import org.junit.Test;
 

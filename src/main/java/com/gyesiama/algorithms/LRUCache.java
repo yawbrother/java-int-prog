@@ -1,4 +1,4 @@
-package com.gyesiama.algoritms;
+package com.gyesiama.algorithms;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

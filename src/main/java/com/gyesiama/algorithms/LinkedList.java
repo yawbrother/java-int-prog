@@ -1,4 +1,4 @@
-package com.gyesiama.algoritms;
+package com.gyesiama.algorithms;
 
 import java.util.StringJoiner;
 

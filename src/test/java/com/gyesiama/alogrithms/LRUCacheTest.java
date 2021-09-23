@@ -1,6 +1,6 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.algoritms.LRUCache;
+import com.gyesiama.algorithms.LRUCache;
 
 import org.junit.Assert;
 import org.junit.Test;

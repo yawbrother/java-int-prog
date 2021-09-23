@@ -1,6 +1,6 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.algoritms.LinkedList;
+import com.gyesiama.algorithms.LinkedList;
 
 import org.junit.Assert;
 import org.junit.Test;

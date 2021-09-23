@@ -2,7 +2,7 @@ package com.gyesiama.alogrithms;
 
 //import static org.mockito.Mochito.*;
 
-import com.gyesiama.algoritms.Palindrome;
+import com.gyesiama.algorithms.Palindrome;
 
 import org.junit.Assert;
 import org.junit.Test;
