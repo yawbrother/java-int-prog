@@ -34,7 +34,21 @@ public class StringReversal {
         return  new String(reversed);
     }
 
+
     public static String reverse3(String str) {
         return new StringBuilder(str).reverse().toString();
     }
+
+    public static String reverse4(String str) {
+        char [] arr = str.toCharArray();
+
+        for(int i = 0, j = arr.length -1; i < arr.length / 2; i++, j--) {
+            char tmp = arr[i];
+            arr[i] = arr[j];
+            arr[j] =  tmp;
+        }
+
+        return  new String(arr);
+    }
+
 }

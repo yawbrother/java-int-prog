@@ -21,4 +21,14 @@ public class Palindrome {
         return true;
     }
 
+    public static boolean isPalindrome2(String arg){
+        int len = arg.length();
+        for(int i = 0, j = len -1; i < j; i++, j--){
+            if(arg.charAt(i) != arg.charAt(j)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
 }
