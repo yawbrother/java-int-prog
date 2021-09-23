@@ -1,12 +1,9 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.alogoritms.LRUCache;
+import com.gyesiama.algoritms.LRUCache;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.mockito.runners.MockitoJUnitRunner;
-import org.testng.annotations.BeforeTest;
 
 public class LRUCacheTest {
     LRUCache<Integer, Integer> cache = new LRUCache<>(4);

@@ -2,13 +2,11 @@ package com.gyesiama.alogrithms;
 
 //import static org.mockito.Mochito.*;
 
-import com.gyesiama.alogoritms.Palindrome;
+import com.gyesiama.algoritms.Palindrome;
 
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
 

@@ -1,6 +1,6 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.alogoritms.Fibonacci;
+import com.gyesiama.algoritms.Fibonacci;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

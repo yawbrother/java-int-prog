@@ -1,11 +1,9 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.alogoritms.LinkedList;
+import com.gyesiama.algoritms.LinkedList;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.mockito.runners.MockitoJUnitRunner;
 
 public class ReverseLinkedListTest {
 

@@ -1,12 +1,10 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.alogoritms.StringReversal;
+import com.gyesiama.algoritms.StringReversal;
 
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
 @RunWith(MockitoJUnitRunner.class)

@@ -1,6 +1,4 @@
-package com.gyesiama.alogoritms;
-
-import java.util.Arrays;
+package com.gyesiama.algoritms;
 
 public class Palindrome {
     public static void main(String [] args) {

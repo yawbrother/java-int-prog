@@ -1,9 +1,4 @@
-package com.gyesiama.alogoritms;
-
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
+package com.gyesiama.algoritms;
 
 public class StringReversal {
     public static void main(String [] args) {

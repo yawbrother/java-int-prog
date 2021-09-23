@@ -1,4 +1,4 @@
-package com.gyesiama.alogoritms;
+package com.gyesiama.algoritms;
 
 public class Fibonacci {
 

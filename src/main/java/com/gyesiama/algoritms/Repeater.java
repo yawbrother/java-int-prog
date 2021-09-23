@@ -1,4 +1,4 @@
-package com.gyesiama.alogoritms;
+package com.gyesiama.algoritms;
 
 /**
  * Finds the number of letters of "repeater" in a string "s" concatenated infinitely

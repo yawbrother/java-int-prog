@@ -1,6 +1,6 @@
 package com.gyesiama.alogrithms;
 
-import com.gyesiama.alogoritms.Repeater;
+import com.gyesiama.algoritms.Repeater;
 
 import org.junit.Assert;
 import org.junit.Test;
