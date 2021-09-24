@@ -3,7 +3,10 @@ package com.gyesiama.alogrithms;
 import com.gyesiama.algorithms.VersionNumberComparator;
 import org.junit.Assert;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.runners.MockitoJUnitRunner;
 
+@RunWith(MockitoJUnitRunner.class)
 public class VersionNumberComparatorTest {
     VersionNumberComparator comparator = new VersionNumberComparator();
 

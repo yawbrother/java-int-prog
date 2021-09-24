@@ -4,7 +4,10 @@ import com.gyesiama.algorithms.LRUCache;
 
 import org.junit.Assert;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.runners.MockitoJUnitRunner;
 
+@RunWith(MockitoJUnitRunner.class)
 public class LRUCacheTest {
     LRUCache<Integer, Integer> cache = new LRUCache<>(4);
 
